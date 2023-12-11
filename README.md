@@ -1,5 +1,5 @@
 # Ex. No. 7 - SIMULATION OF PRE PROCESSING IN ADDITIVE MANUFACTURING
-### DATE: 
+### DATE: 11-12-23
 ## AIM:
 ### To simulate the Pre Processing for 3D printing.
 
@@ -45,8 +45,8 @@
 
 ## Output:
 
-### Name:
-### Register Number:
+### Name: K.Santhan Kumar
+### Register Number: 212223240065
 
 ## Result: 
 ### Thus the simulation on the Preprocessing in additive manufacturing is completed.
